@@ -1,0 +1,16 @@
+.flag {
+	width: 8px;
+	height: 8px;
+	background:url(flags.png) no-repeat
+}
+
+.flag.flag-ar {background-position: -32px 0}
+.flag.flag-ba {background-position: -64px 0}
+.flag.flag-br {background-position: -96px 0}
+.flag.flag-de {background-position: 0 -32px}
+.flag.flag-es {background-position: -32px -32px}
+.flag.flag-gb {background-position: -64px -32px}
+.flag.flag-it {background-position: -96px -32px}
+.flag.flag-mx {background-position: 0 -64px}
+.flag.flag-nl {background-position: -32px -64px}
+.flag.flag-pt {background-position: -64px -64px}
